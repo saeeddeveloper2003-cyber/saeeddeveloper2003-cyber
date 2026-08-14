@@ -107,9 +107,6 @@ More projects will be added here as I build them.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&theme=default&hide_border=true" alt="Saeed's GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddeveloper2003-cyber&hide_border=true" alt="Saeed's GitHub Streak"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 </p>
 
 ---
