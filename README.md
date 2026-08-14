@@ -102,28 +102,9 @@ More projects will be added here as I build them.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Saeed's GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddeveloper2003-cyber&hide_border=true"
-    alt="Saeed's GitHub Streak"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&hide_border=true&rank_icon=github" alt="Saeed's GitHub Stats" height="170" /> <img src="https://streak-stats.demolab.com/?user=saeeddeveloper2003-cyber&hide_border=true" alt="Saeed's GitHub Streak" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true" alt="Top Languages" height="170" /> </p>
+<p align="center"><i>Thanks for stopping by — feel free to connect or check out my projects!</i></p>
 
 
 ---
