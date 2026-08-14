@@ -1,67 +1,108 @@
-<img align="right" alt="coding gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+# Hi, I'm Saeed Ghazanfari 👋
 
-<h1 align="left">Hi, I'm Saeed Ghazanfari 👋</h1>
-<h3 align="left">Backend Developer in progress | Python & Django Enthusiast</h3>
+### 🐍 Aspiring Backend Developer | Python Learner
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saeeddeveloper2003-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="saeeddeveloper2003-cyber" />
+  <img src="https://komarev.com/ghpvc/?username=saeeddeveloper2003-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saeed-ghazanfari-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Saeeddeveloper2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/saeeddeveloper2003-cyber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/saeeddeveloper2003-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Engineering student focused on **backend development**, currently building a solid foundation in **Python**. I believe in learning by doing — building small, real projects and understanding *why* things work rather than just copying tutorials.
+I'm a Computer Engineering student focused on **backend development** and currently building a strong foundation in **Python**.
 
-- 🔭 Currently working on **Python exercises & small backend projects**
-- 🌱 Currently learning **Python → Django → REST APIs → Databases**
-- 🎯 Goal: become a solid **Backend Developer** with strong fundamentals
-- 💬 Ask me about **Python, programming fundamentals, and backend concepts**
-- 📫 Reach me at **[Saeeddeveloper2003@gmail.com](mailto:Saeeddeveloper2003@gmail.com)**
-- ⚡ Fun fact: I learn best by breaking things and figuring out why they broke
+I enjoy learning by building small projects, solving problems, and understanding **why** things work instead of simply copying tutorials.
+
+* 🔭 Currently working on **Python exercises and small backend projects**
+* 🌱 Currently learning **Python, backend fundamentals, and databases**
+* 🚀 Next steps: **Django → REST APIs → SQL**
+* 🎯 Goal: Become a strong and reliable **Backend Developer**
+* 💡 Interested in **Python, backend development, APIs, databases, and software engineering**
+* ⚡ I learn best by breaking things and understanding how to fix them
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Main Language
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </p>
 
-**Tools & Platforms**
+### Tools & Platforms
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </p>
 
-**Currently Learning (Roadmap)**
+### Previously Used
 
-```
-Python  →  Backend Fundamentals  →  Django  →  REST APIs  →  Databases (SQL)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</p>
+
+---
+
+## 📚 Current Learning Path
+
+```text
+Python
+   ↓
+Programming & Backend Fundamentals
+   ↓
+Django
+   ↓
+REST APIs
+   ↓
+SQL & Databases
+   ↓
+Backend Projects
 ```
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+
+### 🔹 Clinify
+
+A responsive healthcare landing page project built while developing my frontend skills.
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Design
+
+🔗 [Live Demo](https://clinfay-landing.vercel.app/)
+
+---
+
+### 🔹 Python Projects
+
+Currently building small Python projects and exercises to strengthen my programming fundamentals and backend skills.
+
+More projects will be added here as I build them.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&theme=default&hide_border=true" alt="Saeed's GitHub Stats"/>
@@ -74,4 +115,26 @@ Python  →  Backend Fundamentals  →  Django  →  REST APIs  →  Databases (
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to connect or check out my projects!</i></p>
+## 📈 2026 Goals
+
+* ✅ Build a strong foundation in Python
+* 🔄 Improve problem-solving skills
+* 🔄 Learn Django
+* ⏳ Build REST APIs
+* ⏳ Learn SQL and relational databases
+* ⏳ Build real-world backend projects
+* ⏳ Prepare for a backend internship
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saeed-ghazanfari-dev/" target="_blank">LinkedIn</a> •
+  <a href="mailto:Saeeddeveloper2003@gmail.com">Email</a> •
+  <a href="https://github.com/saeeddeveloper2003-cyber" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
