@@ -101,12 +101,60 @@ Currently building small Python projects and exercises to strengthen my programm
 More projects will be added here as I build them.
 
 ---
+## 📊 GitHub Stats & 🌐 Connect With Me
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&hide_border=true&rank_icon=github" alt="Saeed's GitHub Stats" height="170" /> <img src="https://streak-stats.demolab.com/?user=saeeddeveloper2003-cyber&hide_border=true" alt="Saeed's GitHub Streak" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true" alt="Top Languages" height="170" /> </p>
-<p align="center"><i>Thanks for stopping by — feel free to connect or check out my projects!</i></p>
+<table>
+  <tr>
+    <td width="65%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&hide_border=true&rank_icon=github"
+        alt="Saeed's GitHub Stats"
+        height="180"
+      />
+    </td>
+<td width="35%" align="center">
 
+  <h3>🌐 Let's Connect</h3>
 
+  <a href="https://www.linkedin.com/in/saeed-ghazanfari-dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="mailto:Saeeddeveloper2003@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/saeeddeveloper2003-cyber" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</td>
+  </tr>
+</table>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddeveloper2003-cyber&hide_border=true"
+    alt="Saeed's GitHub Streak"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
 ---
 
 ## 📈 2026 Goals
