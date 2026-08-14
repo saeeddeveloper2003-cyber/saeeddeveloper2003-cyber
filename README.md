@@ -64,8 +64,7 @@ I enjoy learning by building small projects, solving problems, and understanding
 ---
 
 ## 📚 Current Learning Path
-
-```text
+ext
 Python
    ↓
 Programming & Backend Fundamentals
@@ -77,8 +76,6 @@ REST APIs
 SQL & Databases
    ↓
 Backend Projects
-```
-
 ---
 
 ## 🚀 Projects
