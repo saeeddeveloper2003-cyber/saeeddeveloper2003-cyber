@@ -1,3 +1,5 @@
+<img align="right" alt="coding gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 # Hi, I'm Saeed Ghazanfari 👋
 
 ### 🐍 Aspiring Backend Developer | Python Learner
@@ -6,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=saeeddeveloper2003-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/saeed-ghazanfari-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -91,8 +93,6 @@ A responsive healthcare landing page project built while developing my frontend 
 * Responsive Design
 
 🔗 [Live Demo](https://clinfay-landing.vercel.app/)
-
----
 
 ### 🔹 Python Projects
 
