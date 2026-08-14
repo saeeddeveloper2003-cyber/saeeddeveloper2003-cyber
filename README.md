@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Saeed Ghazanfari 👋</h1>
-<h3 align="center">Backend Developer in progress | Python & Django Enthusiast</h3>
+<img align="right" alt="coding gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-</p>
+<h1 align="left">Hi, I'm Saeed Ghazanfari 👋</h1>
+<h3 align="left">Backend Developer in progress | Python & Django Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=saeeddeveloper2003-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="saeeddeveloper2003-cyber" />
 </p>
 
