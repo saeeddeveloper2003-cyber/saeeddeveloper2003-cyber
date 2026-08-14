@@ -105,13 +105,26 @@ More projects will be added here as I build them.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&theme=default&hide_border=true" alt="Saeed's GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddeveloper2003-cyber&hide_border=true" alt="Saeed's GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saeeddeveloper2003-cyber&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Saeed's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddeveloper2003-cyber&hide_border=true"
+    alt="Saeed's GitHub Streak"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddeveloper2003-cyber&layout=compact&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
+
 
 ---
 
